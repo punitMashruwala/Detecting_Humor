@@ -10,7 +10,7 @@
  https://competitions.codalab.org/competitions/27446
 
 ##  **Data understanding :**
-CodaLab has provided training and test datasetsin Train.csv and Test.csv respectively. 
+CodaLab has provided training and test datasets in Train.csv and Test.csv respectively. 
 ### Train.csv: 
 This is the training dataset with 8000 records. In this data, we had 6 columns: **ID**, **Text**, **is_humor**, **humor_rating**, **humor_controversy**, **offense_rating**
 
